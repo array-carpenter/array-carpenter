@@ -1,6 +1,6 @@
 <!-- "Hero" Header -->
 <div align="center">
-  <img src="https://github.com/array-carpenter/array-carpenter/blob/67edae06a0643501ced434af2b78be32b4eca0e3/images/welcome.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <img src="https://github.com/array-carpenter/array-carpenter/blob/main/images/welcome.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
   <img src="https://github.com/array-carpenter/array-carpenter/blob/main/images/line.gif" />
@@ -21,7 +21,7 @@
 
 <p>
 
-<img alt="Globe" height="80" src="https://github.com/array-carpenter/array-carpenter/blob/a8dcf27bf37ffb949406044973fd1a22b192361a/images/globe.gif">
+<img alt="Globe" height="80" src="https://github.com/array-carpenter/array-carpenter/blob/main/images/globe.gif">
 </a>
 </p>
 
@@ -36,7 +36,7 @@
 
 <p>
 
-<img alt="Newspaper" height="80" src="https://github.com/array-carpenter/array-carpenter/blob/a8dcf27bf37ffb949406044973fd1a22b192361a/images/newspaper.gif">
+<img alt="Newspaper" height="80" src="https://github.com/array-carpenter/array-carpenter/blob/main/images/newspaper.gif">
 </a>
 </p>
 
