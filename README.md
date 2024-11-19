@@ -12,46 +12,62 @@
 <!-- Social -->
 <table width="100%" align="center" style="table-layout: fixed; width: 100%;">
 <tr>
-  <td align="center" style="width: 25%; height: 150px;">
-    <a href="https://www.linkedin.com/in/realraycarpenter/">
-      <strong>Visit my LinkedIn</strong>
-      <br />
-      <br />
-      <p>
-        <img alt="Globe" height="80" src="https://github.com/array-carpenter/array-carpenter/blob/a8dcf27bf37ffb949406044973fd1a22b192361a/images/globe.gif">
-      </p>
-    </a>
-  </td>
-  <td align="center" style="width: 25%; height: 150px;">
-    <a href="https://github.com/array-carpenter/nfl_throwing_scorecard">
-      <strong>NFL Throwing Scorecards</strong>
-      <br />
-      <br />
-      <p>
-        <img alt="Football" height="80" src="https://github.com/array-carpenter/array-carpenter/blob/main/images/spinningfootball1.gif">
-      </p>
-    </a>
-  </td>
-  <td align="center" style="width: 25%; height: 150px;">
-    <a href="https://x.com/array_carpenter">
-      <strong>Twitter</strong>
-      <br />
-      <br />
-      <p>
-        <img alt="Twitter" height="80" src="https://github.com/array-carpenter/array-carpenter/blob/main/images/twitter.gif">
-      </p>
-    </a>
-  </td>
-  <td align="center" style="width: 25%; height: 150px;">
-    <a href="https://bsky.app/profile/array-carpenter.bsky.social">
-      <strong>BlueSky</strong>
-      <br />
-      <br />
-      <p>
-        <img alt="Butterfly" height="80" src="https://github.com/array-carpenter/array-carpenter/blob/main/images/butterfly.gif">
-      </p>
-    </a>
-  </td>
+<td align="center">
+<a href="https://www.linkedin.com/in/realraycarpenter/">
+<strong>Visit my LinkedIn</strong>
+<br />
+<br />
+<br />
+
+<p>
+
+<img alt="Globe" height="80" src="https://github.com/array-carpenter/array-carpenter/blob/a8dcf27bf37ffb949406044973fd1a22b192361a/images/globe.gif">
+</a>
+</p>
+
+</td>
+<td align="center">
+<a href="https://github.com/array-carpenter/nfl_throwing_scorecard">
+<strong>NFL Throwing Scorecards</strong>
+<br />
+<br />
+<br />
+
+<p>
+
+<img alt="Football" height="80" src="https://github.com/array-carpenter/array-carpenter/blob/main/images/spinningfootball1.gif">
+</a>
+</p>
+
+</td>
+<td align="center">
+<a href="https://x.com/array_carpenter">
+<strong>Twitter</strong>
+<br />
+<br />
+<br />
+
+<p>
+
+<img alt="Football" height="80" src="https://github.com/array-carpenter/array-carpenter/blob/main/images/twitter.gif">
+</a>
+</p>
+
+</td>
+<td align="center">
+<a href="https://bsky.app/profile/array-carpenter.bsky.social">
+<strong>BlueSky</strong>
+<br />
+<br />
+<br />
+
+<p>
+
+<img alt="Football" height="80" src="https://github.com/array-carpenter/array-carpenter/blob/main/images/butterfly.gif">
+</a>
+</p>
+
+</td>
 </tr>
 </table>
 
