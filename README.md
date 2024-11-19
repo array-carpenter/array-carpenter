@@ -35,7 +35,7 @@
 
 <p>
 
-<img alt="Football" height="80" src="https://github.com/array-carpenter/array-carpenter/blob/main/images/spinningfootball1.gif">
+<img alt="NFL" height="80" src="https://github.com/array-carpenter/array-carpenter/blob/main/images/nflspin.gif">
 </a>
 </p>
 
