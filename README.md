@@ -8,7 +8,6 @@
   <br />
   <br />
 </div>
-
 <!-- Social -->
 <table width="100%" align="center" style="table-layout: fixed; width: 100%; border-spacing: 10px;">
 <tr>
@@ -36,6 +35,20 @@
 <p>
 
 <img alt="NFL" height="80" src="https://github.com/array-carpenter/array-carpenter/blob/main/images/nflspin.gif">
+</a>
+</p>
+
+</td>
+<td align="center" style="width: 25%; height: 150px; vertical-align: middle;">
+<a href="https://github.com/array-carpenter/nfl-draft-data">
+<strong>NFL Draft Comps</strong>
+<br />
+<br />
+<br />
+
+<p>
+
+<img alt="stopwatch" height="80" src="https://github.com/array-carpenter/array-carpenter/blob/main/images/stopwatch.gif">
 </a>
 </p>
 
