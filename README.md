@@ -35,7 +35,7 @@
 
 <p>
 
-<img alt="Newspaper1" height="80" src="https://github.com/array-carpenter/array-carpenter/blob/main/images/newspaper.gif">
+<img alt="Newspaper2" height="80" src="https://github.com/array-carpenter/array-carpenter/blob/main/images/new_newspaper.gif">
 </a>
 </p>
 
