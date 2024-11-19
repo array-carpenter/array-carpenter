@@ -26,7 +26,6 @@
 </p>
 
 </td>
-<tr>
 <td align="center" style="width: 25%; height: 150px; vertical-align: middle;">
 <a href="https://14thstreetanalytics.substack.com/">
 <strong>Substack</strong>
