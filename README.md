@@ -13,29 +13,15 @@
 <table width="100%" align="center" style="table-layout: fixed; width: 100%; border-spacing: 10px;">
 <tr>
 <td align="center" style="width: 25%; height: 150px; vertical-align: middle;">
-<a href="https://www.linkedin.com/in/realraycarpenter/">
-<strong>Visit my LinkedIn</strong>
+<a href="https://github.com/array-carpenter/ncaa-bracket">
+<strong>Bracket Generator</strong>
 <br />
 <br />
 <br />
 
 <p>
 
-<img alt="Globe" height="80" src="https://github.com/array-carpenter/array-carpenter/blob/main/images/globe.gif">
-</a>
-</p>
-
-</td>
-<td align="center" style="width: 25%; height: 150px; vertical-align: middle;">
-<a href="https://14thstreetanalytics.substack.com/">
-<strong>Substack</strong>
-<br />
-<br />
-<br />
-
-<p>
-
-<img alt="Newspaper2" height="80" src="https://github.com/array-carpenter/array-carpenter/blob/main/images/new_newspaper.gif">
+<img alt="Basketball" height="80" src="https://github.com/array-carpenter/array-carpenter/blob/main/images/basketball.gif">
 </a>
 </p>
 
@@ -50,34 +36,6 @@
 <p>
 
 <img alt="NFL" height="80" src="https://github.com/array-carpenter/array-carpenter/blob/main/images/nflspin.gif">
-</a>
-</p>
-
-</td>
-<td align="center" style="width: 25%; height: 150px; vertical-align: middle;">
-<a href="https://x.com/array_carpenter">
-<strong>Twitter</strong>
-<br />
-<br />
-<br />
-
-<p>
-
-<img alt="Football" height="80" src="https://github.com/array-carpenter/array-carpenter/blob/main/images/twitter.gif">
-</a>
-</p>
-
-</td>
-<td align="center" style="width: 25%; height: 150px; vertical-align: middle;">
-<a href="https://bsky.app/profile/array-carpenter.bsky.social">
-<strong>BlueSky</strong>
-<br />
-<br />
-<br />
-
-<p>
-
-<img alt="Football" height="80" src="https://github.com/array-carpenter/array-carpenter/blob/main/images/butterfly.gif">
 </a>
 </p>
 
