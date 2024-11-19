@@ -26,7 +26,6 @@
 </p>
 
 </td>
-<table width="100%" align="center" style="table-layout: fixed; width: 100%; border-spacing: 10px;">
 <tr>
 <td align="center" style="width: 25%; height: 150px; vertical-align: middle;">
 <a href="https://14thstreetanalytics.substack.com/">
