@@ -3,7 +3,7 @@
   <img src="https://github.com/array-carpenter/array-carpenter/blob/67edae06a0643501ced434af2b78be32b4eca0e3/images/welcome.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-  <img src="https://github.com/array-carpenter/array-carpenter/blob/main/images/50star.gif" />
+  <img src="https://github.com/array-carpenter/array-carpenter/blob/main/images/line.gif" />
   <img src="https://github.com/array-carpenter/array-carpenter/blob/9b59d202f4ba2e55fe1a66344aafa9f434332fcc/profile-3d-contrib/profile-gitblock.svg" />
   <br />
   <br />
@@ -30,7 +30,7 @@
 <tr>
 <td align="center" style="width: 25%; height: 150px; vertical-align: middle;">
 <a href="https://14thstreetanalytics.substack.com/">
-<strong>SubStack</strong>
+<strong>Substack</strong>
 <br />
 <br />
 <br />
