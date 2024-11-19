@@ -1,6 +1,6 @@
 <!-- "Hero" Header -->
 <div align="center">
-  <img src="https://github.com/array-carpenter/array-carpenter/blob/486fa45295e46c5d6874b381acc627cccccbbc16/images/wordart.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <img src="https://github.com/array-carpenter/array-carpenter/blob/486fa45295e46c5d6874b381acc627cccccbbc16/images/welcome.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
   <img height="50" alt="My Name is Livio and I like Node.js" src="images/personal_note.svg" />
