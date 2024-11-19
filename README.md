@@ -10,9 +10,9 @@
 </div>
 
 <!-- Social -->
-<table width="100%" align="center" style="table-layout: fixed; width: 100%;">
+<table width="100%" align="center" style="table-layout: fixed; width: 100%; border-spacing: 10px;">
 <tr>
-<td align="center" style="width: 25%; height: 150px;">
+<td align="center" style="width: 25%; height: 150px; vertical-align: middle;">
 <a href="https://www.linkedin.com/in/realraycarpenter/">
 <strong>Visit my LinkedIn</strong>
 <br />
@@ -26,7 +26,7 @@
 </p>
 
 </td>
-<td align="center" style="width: 25%; height: 150px;">
+<td align="center" style="width: 25%; height: 150px; vertical-align: middle;">
 <a href="https://github.com/array-carpenter/nfl_throwing_scorecard">
 <strong>NFL Throwing Scorecards</strong>
 <br />
@@ -40,7 +40,7 @@
 </p>
 
 </td>
-<td align="center" style="width: 25%; height: 150px;">
+<td align="center" style="width: 25%; height: 150px; vertical-align: middle;">
 <a href="https://x.com/array_carpenter">
 <strong>Twitter</strong>
 <br />
@@ -54,7 +54,7 @@
 </p>
 
 </td>
-<td align="center" style="width: 25%; height: 150px;">
+<td align="center" style="width: 25%; height: 150px; vertical-align: middle;">
 <a href="https://bsky.app/profile/array-carpenter.bsky.social">
 <strong>BlueSky</strong>
 <br />
