@@ -6,7 +6,6 @@
   <img height="50" alt="My Name is Livio and I like Node.js" src="images/personal_note.svg" />
   <br />
   <br />
-
 </div>
 
 <!-- Social -->
@@ -28,14 +27,15 @@
 </td>
 
 <!-- Footer -->
-
 <div align="center">
 
+<img alt="Globe" height="80" src="images/globe.gif">
+<br />
+<br />
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
 
 ![Visitor Count](https://profile-counter.glitch.me/array-carpenter/count.svg)
-
 
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
 <!-- "margin-right: whatever;" -->
