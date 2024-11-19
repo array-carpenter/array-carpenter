@@ -3,7 +3,7 @@
   <img src="https://github.com/array-carpenter/array-carpenter/blob/main/images/welcome.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-  <img src="https://github.com/array-carpenter/array-carpenter/blob/main/images/line.gif" />
+  <img src="https://github.com/array-carpenter/array-carpenter/blob/main/images/golf.gif" />
   <img src="https://github.com/array-carpenter/array-carpenter/blob/9b59d202f4ba2e55fe1a66344aafa9f434332fcc/profile-3d-contrib/profile-gitblock.svg" />
   <br />
   <br />
