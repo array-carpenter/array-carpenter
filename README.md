@@ -26,6 +26,22 @@
 </p>
 
 </td>
+<table width="100%" align="center" style="table-layout: fixed; width: 100%; border-spacing: 10px;">
+<tr>
+<td align="center" style="width: 25%; height: 150px; vertical-align: middle;">
+<a href="https://14thstreetanalytics.substack.com/">
+<strong>SubStack</strong>
+<br />
+<br />
+<br />
+
+<p>
+
+<img alt="Globe" height="80" src="https://github.com/array-carpenter/array-carpenter/blob/a8dcf27bf37ffb949406044973fd1a22b192361a/images/newspaper.gif">
+</a>
+</p>
+
+</td>
 <td align="center" style="width: 25%; height: 150px; vertical-align: middle;">
 <a href="https://github.com/array-carpenter/nfl_throwing_scorecard">
 <strong>NFL QB Scorecards</strong>
