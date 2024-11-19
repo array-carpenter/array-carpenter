@@ -4,7 +4,7 @@
   <br />
   <br />
   <img src="https://github.com/array-carpenter/array-carpenter/blob/main/images/50star.gif" />
-  <img src="![](./profile-3d-contrib/profile-green-animate.svg)" />
+  <img src="https://github.com/array-carpenter/array-carpenter/blob/9b59d202f4ba2e55fe1a66344aafa9f434332fcc/profile-3d-contrib/profile-gitblock.svg" />
   <br />
   <br />
 </div>
