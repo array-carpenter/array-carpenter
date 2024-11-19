@@ -12,36 +12,31 @@
 <!-- Social -->
 <table width="100%" align="center">
 <tr>
-<td align="center">
-<a href="https://www.linkedin.com/in/realraycarpenter/">
-<strong>Visit my LinkedIn</strong>
-<br />
-<br />
-<br />
-
-<p>
-
-<img alt="Globe" height="80" src="https://github.com/array-carpenter/array-carpenter/blob/a8dcf27bf37ffb949406044973fd1a22b192361a/images/globe.gif">
-</a>
-</p>
-
-</td>
-</tr>
-<tr>
-<td align="center">
-<a href="https://github.com/array-carpenter/nfl_throwing_scorecard">
-<strong>NFL Throwing Scorecards</strong>
-<br />
-<br />
-<br />
-
-<p>
-
-<img alt="Football" height="80" src="https://github.com/array-carpenter/array-carpenter/blob/main/images/football_run.gif">
-</a>
-</p>
-
-</td>
+  <!-- First Column -->
+  <td align="center">
+    <a href="https://www.linkedin.com/in/realraycarpenter/">
+      <strong>Visit my LinkedIn</strong>
+      <br />
+      <br />
+      <br />
+      <p>
+        <img alt="Globe" height="80" src="https://github.com/array-carpenter/array-carpenter/blob/a8dcf27bf37ffb949406044973fd1a22b192361a/images/globe.gif">
+      </p>
+    </a>
+  </td>
+  
+  <!-- Second Column -->
+  <td align="center">
+    <a href="https://github.com/array-carpenter/nfl_throwing_scorecard">
+      <strong>NFL Throwing Scorecards</strong>
+      <br />
+      <br />
+      <br />
+      <p>
+        <img alt="Football" height="80" src="https://github.com/array-carpenter/array-carpenter/blob/main/images/football_run.gif">
+      </p>
+    </a>
+  </td>
 </tr>
 </table>
 
