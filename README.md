@@ -33,7 +33,7 @@
       <br />
       <br />
       <p>
-        <img alt="Football" height="80" src="https://github.com/array-carpenter/array-carpenter/blob/main/images/football_run.gif">
+        <img alt="Football" height="80" src="https://github.com/array-carpenter/array-carpenter/blob/1fafb673ff75b02a3b3073e9258d0cff0982b2a4/images/football_run.gif">
       </p>
     </a>
   </td>
