@@ -40,6 +40,20 @@
 </p>
 
 </td>
+<td align="center">
+<a href="https://x.com/array_carpenter">
+<strong>Twitter</strong>
+<br />
+<br />
+<br />
+
+<p>
+
+<img alt="Football" height="80" src="https://github.com/array-carpenter/array-carpenter/blob/main/images/twitter.gif">
+</a>
+</p>
+
+</td>
 </tr>
 </table>
 
