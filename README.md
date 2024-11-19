@@ -12,7 +12,7 @@
 <!-- Social -->
 <table width="100%" align="center" style="table-layout: fixed; width: 100%;">
 <tr>
-<td align="center">
+<td align="center" style="width: 25%; height: 150px;">
 <a href="https://www.linkedin.com/in/realraycarpenter/">
 <strong>Visit my LinkedIn</strong>
 <br />
@@ -26,7 +26,7 @@
 </p>
 
 </td>
-<td align="center">
+<td align="center" style="width: 25%; height: 150px;">
 <a href="https://github.com/array-carpenter/nfl_throwing_scorecard">
 <strong>NFL Throwing Scorecards</strong>
 <br />
@@ -40,7 +40,7 @@
 </p>
 
 </td>
-<td align="center">
+<td align="center" style="width: 25%; height: 150px;">
 <a href="https://x.com/array_carpenter">
 <strong>Twitter</strong>
 <br />
@@ -54,7 +54,7 @@
 </p>
 
 </td>
-<td align="center">
+<td align="center" style="width: 25%; height: 150px;">
 <a href="https://bsky.app/profile/array-carpenter.bsky.social">
 <strong>BlueSky</strong>
 <br />
