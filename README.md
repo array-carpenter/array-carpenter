@@ -28,7 +28,7 @@
 </td>
 <td align="center" style="width: 25%; height: 150px; vertical-align: middle;">
 <a href="https://github.com/array-carpenter/nfl_throwing_scorecard">
-<strong>NFL Throwing Scorecards</strong>
+<strong>NFL QB Scorecards</strong>
 <br />
 <br />
 <br />
