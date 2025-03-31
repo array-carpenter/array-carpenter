@@ -1,6 +1,6 @@
-## 🎨 Data Visualization Gallery
+## 🎨 Ray Carpenter
 
-Check out my interactive gallery of data visualizations, powered by GitHub Pages:
+Painting happy little accidents with data and sharing them on here. Check some out below:
 
 👉 [View Gallery](https://array-carpenter.github.io/gallery/)
 
